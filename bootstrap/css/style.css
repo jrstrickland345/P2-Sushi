@@ -1,0 +1,9 @@
+div.row>div{
+	background: red;
+	height: 300px;
+	}
+	
+div.row-fluid>div{
+		background: green;
+		height: 300px;
+		}
